@@ -1,0 +1,15 @@
+---
+  name: echannel.push_notification.do_send_to_profile
+  current-jobs-urgent: 1
+  current-jobs-ready: 2
+  current-jobs-reserved: 3
+  current-jobs-delayed: 4
+  current-jobs-buried: 5
+  total-jobs: 1160
+  current-using: 14
+  current-watching: 5
+  current-waiting: 5
+  cmd-pause-tube: 0
+  pause: 0
+  pause-time-left: 0
+

@@ -1,0 +1,15 @@
+--- # Configuration for jobs
+  tests.jobs_for_tests.do_something:
+    deferred: True
+    critical: False
+    retry: True
+    retry_delay: 300
+    note: 'Your momma is a bitch'
+
+  tests.jobs_for_tests.do_something_unique:
+    deferred: True
+    critical: False
+    retry: True
+    retry_delay: 300
+    unique: True
+
